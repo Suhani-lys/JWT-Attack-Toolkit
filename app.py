@@ -27,8 +27,8 @@ def decode_token_parts(token: str):
 
 # ─── PAGE CONFIG ─────────────────────────────
 
-st.set_page_config(page_title="JWT Attack Toolkit", page_icon="🛡️")
-st.title("🛡️ JWT Attack Toolkit")
+st.set_page_config(page_title="JWT Attack Toolkit", page_icon=":shield:")
+st.title("JWT Attack Toolkit")
 st.markdown("### Ethical Use Only")
 
 # ─── SIDEBAR ─────────────────────────────────
